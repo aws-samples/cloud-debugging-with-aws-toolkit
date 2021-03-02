@@ -16,7 +16,7 @@ To deploy the application to your AWS account complete the following steps:
 
 - Clone repository to your dev environment
 ```bash
-$ git clone https://gitlab.aws.dev/aws-sa-dach/blogposts/flomair-cloud-debugging-with-aws-toolkit.git
+$ git clone https://github.com/aws-samples/cloud-debugging-with-aws-toolkit.git
 ```
 - Change to the cloned directory
 - Create virtual environment for Python 3
